@@ -1,6 +1,0 @@
-/home/andrew/ispras/LRUCache/build/CMakeFiles/main.dir
-/home/andrew/ispras/LRUCache/build/CMakeFiles/edit_cache.dir
-/home/andrew/ispras/LRUCache/build/CMakeFiles/rebuild_cache.dir
-/home/andrew/ispras/LRUCache/build/HashQueue/CMakeFiles/HashQueue.dir
-/home/andrew/ispras/LRUCache/build/HashQueue/CMakeFiles/edit_cache.dir
-/home/andrew/ispras/LRUCache/build/HashQueue/CMakeFiles/rebuild_cache.dir

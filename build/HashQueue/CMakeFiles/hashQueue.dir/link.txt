@@ -1,2 +1,0 @@
-/usr/bin/ar qc libhashQueue.a CMakeFiles/hashQueue.dir/hash_queue.cpp.o
-/usr/bin/ranlib libhashQueue.a
