@@ -2,8 +2,14 @@
 #include "hash_queue.hpp"
 
 int main(void) {
-	HashQueue hui = HashQueue(3);
-
-	std::cout << hui.size() << '\n';
+	HashQueue<int> hui = HashQueue<int>(3);
+	hui.insert(1);
+	hui.insert(2);
+	hui.insert(3);
+	hui.insert(1);
+	hui.display();
+	hui.insert(4);
+	hui.insert(5);
+	hui.display();
 	return 0;
 }
